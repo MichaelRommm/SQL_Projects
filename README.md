@@ -1,4 +1,4 @@
-## SQL Portfolio Projects
+## SQL - Portfolio Projects
 
 ### 1 | Sales Database Setup
 **Code:** [Database_Setup](Database_Setup.sql)
