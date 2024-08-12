@@ -28,5 +28,5 @@ Successfully sets up database schema and tables, ensuring scalability, performan
 
 **Queries:** Includes a diverse set of queries covering product analysis, customer behavior, employee metrics, and sales trends. 10 questions to analyze and understand a database.
 
-**Results:** [Output_Query_Results](https://github.com/MichaelRommm/DATA_ANALYST_PORTFOLIO/tree/fbaa946b7a9bba82bb1c47f57bbca40c7d5e4af3/SQL/output_images/Advanced_SQL)
+**Results:** [Output_Query_Results](output_images/Advanced_SQL)
 The project demonstrates mastery in leveraging SQL advanced features to perform intricate data analysis tasks, providing actionable insights for strategic decision-making.
